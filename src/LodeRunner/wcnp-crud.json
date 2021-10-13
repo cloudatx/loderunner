@@ -1,0 +1,7 @@
+{
+    "requests":
+    [  
+      {"path":"/api/movies/zz0133093","verb":"PUT","perfTarget":{"category":"Upsert"},"validation":{"statusCode":200}},
+      {"path":"/api/movies/zz0133093","verb":"DELETE","perfTarget":{"category":"Delete"},"validation":{"statusCode":204}}
+    ]
+  }
